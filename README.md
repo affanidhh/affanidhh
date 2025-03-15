@@ -8,6 +8,15 @@ Je suis un développeur passionné par l'analyse de données, l'intelligence art
 - Frameworks : React, Node.js, Django
 - Outils : Git, Docker, VS Code, GitHub Actions
 
+
+### Badges
+
+![GitHub followers](https://img.shields.io/github/followers/affanidhh?style=social)
+![GitHub stars](https://img.shields.io/github/stars/affanidhh?style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=affanidhh&layout=compact)
+
+
+
 ## 📌 Projets Épinglés
 
 ### [Les Douze Coups de Midi](https://github.com/affanidhh/Les-Douze-Coups-de-Midi)
