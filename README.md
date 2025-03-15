@@ -1,6 +1,6 @@
 # Salut, je suis Affanidhh 👋
 
-Je suis un développeur passionné par [insérer une technologie ou un domaine spécifique ici, par exemple, "le développement web", "l'intelligence artificielle", "le développement mobile", etc.]. J'aime construire des applications et contribuer à des projets open-source. N'hésitez pas à parcourir mes projets ci-dessous pour voir ce sur quoi je travaille.
+Je suis un développeur passionné par l'analyse de données, l'intelligence artificielle et le développement de solutions innovantes. J'aime travailler sur des projets allant de la création de jeux interactifs à l'analyse de données complexes, ainsi que sur la mise en place de technologies émergentes comme la blockchain. N'hésitez pas à explorer mes projets ci-dessous pour voir les différentes applications que je développe et les technologies que j'utilise.
 
 ## 🛠️ Technologies et Outils
 
